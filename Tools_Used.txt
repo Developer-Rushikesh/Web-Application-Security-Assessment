@@ -1,0 +1,4 @@
+Kali Linux – Penetration Testing Operating System
+Nmap – Network Reconnaissance Tool
+Burp Suite – Web Proxy and Manual Testing
+Firefox – Browser-based Testing
